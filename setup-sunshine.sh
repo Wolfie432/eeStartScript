@@ -74,3 +74,5 @@ EOF
 
 systemctl daemon-reload
 systemctl enable --now sunshine
+
+apt-get install -y -qq firefox
